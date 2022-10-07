@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.inputField {
+  border-radius: 5px;
+  font-style: italic;
+}
+
+button {
+  margin-left: 50px;
+  min-width: 30%;
+}
